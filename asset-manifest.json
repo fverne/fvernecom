@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/fvernecom/static/css/main.073c9b0a.css",
-    "main.js": "/fvernecom/static/js/main.5ed36a87.js",
-    "static/js/787.9067b9e9.chunk.js": "/fvernecom/static/js/787.9067b9e9.chunk.js",
-    "static/media/logo.svg": "/fvernecom/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/fvernecom/index.html",
-    "main.073c9b0a.css.map": "/fvernecom/static/css/main.073c9b0a.css.map",
-    "main.5ed36a87.js.map": "/fvernecom/static/js/main.5ed36a87.js.map",
-    "787.9067b9e9.chunk.js.map": "/fvernecom/static/js/787.9067b9e9.chunk.js.map"
+    "main.css": "/static/css/main.073c9b0a.css",
+    "main.js": "/static/js/main.2c530256.js",
+    "static/js/787.9067b9e9.chunk.js": "/static/js/787.9067b9e9.chunk.js",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
+    "main.2c530256.js.map": "/static/js/main.2c530256.js.map",
+    "787.9067b9e9.chunk.js.map": "/static/js/787.9067b9e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.5ed36a87.js"
+    "static/js/main.2c530256.js"
   ]
 }
