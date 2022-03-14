@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App"> 
       <div className="navigation">
-        <img src={logo} className="logo" alt="Logo Image" />
+        <img src={logo} className="logo" alt="Logo" />
         <div className="navigation-sub">
           <div href="" className="item">Projects</div>
           <div href="" className="item">Articles</div>
